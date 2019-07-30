@@ -6,13 +6,7 @@
 <b style="color:red">Recommended:</b> [Java Technology Books Encyclopedia - awesome-java-books](https://github.com/sorenduan/awesome-java-books)
 <p>From junior developers to experienced architects, it’s enough to read these books</p>
 <hr/>
-
-[![Knowledge Sharing Protocol (CC Protocol)] (https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc- Sa/4.0/deed.zh)
-[![GitHub stars](https://img.shields.io/github/stars/xingshaocheng/architect-awesome.svg?style=flat&label=Star)](https://github.com/xingshaocheng/architect-awesome/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/xingshaocheng/architect-awesome.svg?style=flat&label=Fork)](https://github.com/xingshaocheng/architect-awesome/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/xingshaocheng/architect-awesome.svg?style=flat&label=Watch)](https://github.com/xingshaocheng/architect-awesome/watchers)
-[![GitHub followers](https://img.shields.io/github/followers/xingshaocheng.svg?label=%E5%85%B3%E6%B3%A8)](https://github.com/xingshaocheng)
-
+ 
 
 * [Data Structure] (https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#data Structure)
 	* [Queue] (https://github.com/xingshaocheng/architect-awesome/blob/master/README.md# queue)
